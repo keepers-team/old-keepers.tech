@@ -82,6 +82,6 @@ weight: 1
 
 [webTLO]: https://rutracker.org/forum/viewtopic.php?t=4546540
 
-[инструкции по настройке webTLO]: https://github.com/berkut-174/webtlo/wiki
+[инструкции по настройке webTLO]: https://webtlo.keepers.tech
 
-[скрипты автоматизации]: https://github.com/berkut-174/webtlo/wiki/Automation-scripts
+[скрипты автоматизации]: https://webtlo.keepers.tech/configuration/automation-scripts
