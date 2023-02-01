@@ -42,38 +42,42 @@ weight: 1
 {{< /notice >}}
 
 ## Полезные ссылки
-[Памятка для новых хранителей](https://rutracker.org/forum/viewtopic.php?t=6031259)  
+[Памятка для новых хранителей.](https://rutracker.org/forum/viewtopic.php?t=6031259)  
 [Наш регламент](https://rutracker.org/forum/viewtopic.php?t=3352749), прочитать надо, даже если очень скучно.  
-[Курилка](https://rutracker.org/forum/viewtopic.php?t=5998609).  
-[Помощь по всем техническим вопросам](https://rutracker.org/forum/viewtopic.php?t=6278196).  
+[Курилка.](https://rutracker.org/forum/viewtopic.php?t=5998609)  
+[Помощь по всем техническим вопросам.](https://rutracker.org/forum/viewtopic.php?t=6278196)  
 Тема разработки [webTLO] и помощи по нему.  
 [Тема](https://rutracker.org/forum/viewtopic.php?t=4816957) помощи с мертвыми раздачами.  
-[Тема](https://rutracker.org/forum/viewtopic.php?t=3130748), где надо отписываться, если берете перерыв в раздаче  
+[Тема](https://rutracker.org/forum/viewtopic.php?t=3130748), где надо отписываться, если берете перерыв в раздаче.  
 
-Статистика и отчеты:  
-[Сводные отчеты работы в группе](https://rutracker.org/forum/viewtopic.php?t=4275633).  
-[Ежедневная статистика по отдаче хранителей](https://rutracker.org/forum/viewtopic.php?t=5413252).  
-[Ежедневная статистика по спискам хранимого](https://rutracker.org/forum/viewtopic.php?t=5471390).
+##### Статистика и отчеты:
+[Сводные отчеты работы в группе.](https://rutracker.org/forum/viewtopic.php?t=4275633)  
+[Ежедневная статистика по отдаче хранителей.](https://rutracker.org/forum/viewtopic.php?t=5413252)  
+[Ежедневная статистика по спискам хранимого.](https://rutracker.org/forum/viewtopic.php?t=5471390)
 
-[Хранители и Модераторы. Нейтральная территория. специальный подфорум для общения с модераторами](https://rutracker.org/forum/viewforum.php?f=962).
+[Хранители и Модераторы. Нейтральная территория. специальный подфорум для общения с модераторами.](https://rutracker.org/forum/viewforum.php?f=962)
 
 ## Полезные программы
 
-* BEncode Editor.
+* [BEncode Editor. Прямое редактирование торрент-файлов.](https://rutracker.org/forum/viewtopic.php?t=1844553)
 
-Прямое редактирование торрент-файлов и баз данных uTorrent: для чего это нужно.
-
-* Пользовательские скрипты для бразуера
+* [Пользовательские скрипты для браузера.](https://rutracker.org/forum/viewtopic.php?t=6309007)
 
 Например, для удобства отслеживания статистики можно установить в браузер специальный хранительский скрипт, созданный Sunni2.
 Перед установкой скрипта, необходимо установить плагин для его работы, например [Tampermonkey](https://www.tampermonkey.net) или [Greasemonkey](https://www.greasespot.net) для вашего браузера.
 После чего нужно установить сам скрипт. Для этого перейдите по [ссылке](https://gitlab.com/qusielle/keeper-userscripts/-/raw/master/profile_stats.user.js), плагин должен предложить установить скрипт.
 
-**Тема на форуме со всеми [актуальными скриптами] для хранителей.**
+##### Результат работы скрипта:
+![profile_stats](/images/content/openboarding/profile_stats.png)
 
+
+### Здоровье дисков
 Так как хранительство дает сильную нагрузку на жесткие диски, крайне рекомендуется тщательно следить за их состоянием.
 Получить оперативную информацию и предотвратить неожиданное умирание диска можно с помощью специальных программ,
-например: *Hard Disk Sentinel Pro 5.70 Build 11973 RePack (& Portable) by TryRooM [2021,Multi/Ru]* или *CrystalDiskInfo*.
+например:  
+* [Hard Disk Sentinel Pro](https://rutracker.org/forum/viewtopic.php?t=5997398)
+* [CrystalDiskInfo](https://crystalmark.info/en/download/#CrystalDiskInfo)
+
 Если вы стали замечать проблемы с жестким диском и есть риск потери данных, необходимо сообщить куратору и организовать
 дублирование хранимого материала своими силами или с помощью коллег-хранителей.
 
@@ -90,4 +94,3 @@ weight: 1
 
 [скрипты автоматизации]: https://webtlo.keepers.tech/configuration/automation-scripts
 
-[актуальными скриптами]: https://rutracker.org/forum/viewtopic.php?t=6309007
