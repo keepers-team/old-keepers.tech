@@ -36,7 +36,7 @@ weight: 2
 
 Для всех (наверное) дистрибутивов Linux порт можно открыть, используя iptables:
 
-```
+```bash
 iptables -A INPUT -p tcp --dport <порт клиента> -j ACCEPT
 
 iptables -A INPUT -p udp --dport <порт клиента> -j ACCEPT

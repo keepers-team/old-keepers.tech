@@ -55,7 +55,7 @@ weight: 3
 
 ### Шаблон для markdown
 
-```
+```markdown
 <details>
 <summary>HukuToc2288, 31.25-37.5 МБ/c, 3+10 ТБ, 24к раздач, открытый порт</summary>
 
