@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://keepers.tech/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Keepers-Team'
 theme = "hugo-theme-relearn"
 defaultContentLanguage = "ru"
 
