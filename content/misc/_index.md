@@ -1,5 +1,5 @@
 ---
 archetype: "chapter"
 title: "Другое"
-weight: 2
+weight: 97
 ---
