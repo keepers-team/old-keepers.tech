@@ -1,11 +1,16 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://keepers.tech/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Keepers-Team'
 theme = "hugo-theme-relearn"
 defaultContentLanguage = "ru"
 
 [outputs]
-home = [ "HTML", "RSS", "JSON"]
+home = [ "HTML", "RSS", "JSON" ]
 
 [params]
 themeVariant = ["keepers-dark", "keepers-light"]
+additionalContentLanguage = [ "en" ]
+
+[Languages]
+[Languages.ru]
+landingPageName = "<i class='fas fa-home'></i> Главная"

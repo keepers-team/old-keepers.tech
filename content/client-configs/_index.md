@@ -13,5 +13,5 @@ weight: 98
 
 {{% notice info %}}
 Этот раздел посвящён настройке торрент-клиентов непосредственно для эффективной раздачи и не имеет отношения к webTLO. 
-Настройка клиентов для работы с webTLO описана в [webTLO wiki](https://webtlo.keepers.tech/configuration/clients/index.html).
+Настройка клиентов для работы с webTLO описана в [webTLO wiki](https://webtlo.keepers.tech/configuration/clients).
 {{% /notice %}}

@@ -2,8 +2,6 @@
 title: "Запуск transmission в docker-compose"
 ---
 
-# Запуск transmission в docker-compose
-
 Пример конфига в файле docker-compose.yml:
 ```yaml
 version: "2.1"
