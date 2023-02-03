@@ -79,7 +79,7 @@ Shift+Ctrl+Esc.
 1. Порт должен быть в диапазоне от 2000 до 65535. Также, лучше избегать "стандартных" портов 6881-6889
 
 **Использовать UPnP NAT-PMP**. UPnP переадресацию нужно включать если у вас подключение идёт через роутер и
-не [проброшен порт](https://docs.google.com/document/d/19_749hVS7R2iT-CtjKs89X6eH72vozCT6L4hcNZY8UA/edit?usp=sharing)
+не [проброшен порт]({{< ref "/network-config/port-forwarding" >}})
 через NAT. Если же кабель напрямую к ПК подключается или порт через NAT уже проброшен, то лучше UPnP выключать.
 
 **Общее ограничение числа соединений** рекомендую не ставить
@@ -96,10 +96,10 @@ Shift+Ctrl+Esc.
 Если Ваш интернет-провайдер Билайн, убедитесь что в Личном кабинете Билайн - Домашний интернет - Дополнительные услуги -
 Защита от интернет-атак (Firewall) стоит "Средний" (рекомендуемый) либо "Защита оключена".
 
-Аналогично и с другими провайдерами. **Желательно иметь "реальный \ белый" IP адрес. А также разрешить в** [**
+Аналогично и с другими провайдерами. **Желательно иметь "реальный \ белый" IP адрес. А также разрешить в [
 Брандмауэре Windows (
-firewall)**](https://docs.google.com/document/d/19_749hVS7R2iT-CtjKs89X6eH72vozCT6L4hcNZY8UA/edit?usp=sharing) **, если
-он у вас или у провайдера установлен,порты, которые Вы указали в п.1**
+firewall)]({{< ref "network-config/port-forwarding#открытие-порта-в-брандмауэре-windows" >}}), если
+он у вас или у провайдера установлен, порты, которые Вы указали в п.1**
 
 1. Если вы стали Кандидатом или Хранителем, то "Прокси-Сервер" неактивен должен быть.
 
@@ -108,7 +108,7 @@ firewall)**](https://docs.google.com/document/d/19_749hVS7R2iT-CtjKs89X6eH72vozC
 Заходим [сюда](https://2ip.ru/check-port/), впечатываем (копируем) номер порта, который указали в п.1, жмем кнопку "
 Проверить". Если написано "Порт открыт" - все отлично! Если закрыт, значит у вас либо "серый" ip адрес, либо не работает
 UPnP на роутере. открыть порт можно
-следуя [инструкции](https://docs.google.com/document/d/19_749hVS7R2iT-CtjKs89X6eH72vozCT6L4hcNZY8UA/edit?usp=sharing).
+следуя [инструкции]({{< ref "/network-config/port-forwarding" >}}).
 За подробностями [сюда](http://rutracker.wiki/%D0%9F%D0%BE%D1%80%D1%82)
 
 ![](/images/client-configs/xtttr-qbittorrent/image17.png)
@@ -124,7 +124,7 @@ UPnP на роутере. открыть порт можно
 ![](/images/client-configs/xtttr-qbittorrent/image15.png)
 
 В этом окне адрес и порт пригодится при
-настройке [WebTLO](https://docs.google.com/document/d/1qlYkS9tSznU8V7alXC3AOKV_cqb0I-ROLQON5IieSfE/edit?usp=sharing)
+настройке [WebTLO](https://webtlo.keepers.tech/configuration/clients/index.html)
 
 ![](/images/client-configs/xtttr-qbittorrent/image10.png)
 
