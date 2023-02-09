@@ -1,6 +1,6 @@
 baseURL = 'https://keepers.tech/'
-languageCode = 'en-us'
-title = 'Keepers-Team'
+languageCode = 'ru-ru'
+title = "Документация Хранителей"
 theme = "hugo-theme-relearn"
 defaultContentLanguage = "ru"
 
@@ -11,6 +11,14 @@ home = [ "HTML", "RSS", "JSON" ]
 themeVariant = ["keepers-dark", "keepers-light"]
 additionalContentLanguage = [ "en" ]
 
-[Languages]
-[Languages.ru]
+[languages.ru]
+title = "Документация Хранителей"
+weight = 1
+languageName = "Русский"
 landingPageName = "<i class='fas fa-home'></i> Главная"
+
+[languages.en]
+title = "Keepers' docs"
+weight = 2
+languageName = "English"
+landingPageName = "<i class='fas fa-home'></i> Home"
