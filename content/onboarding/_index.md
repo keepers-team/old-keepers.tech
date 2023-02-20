@@ -49,7 +49,7 @@ weight: 1
 Тема разработки [webTLO] и помощи по нему.  
 [Тема](https://rutracker.org/forum/viewtopic.php?t=4816957) помощи с мертвыми раздачами.  
 [Тема](https://rutracker.org/forum/viewtopic.php?t=3130748), где надо отписываться, если берете перерыв в раздаче.  
-[Что делать с разрегистрированными раздачами.](docs.google.com/document/d/1BvBZbAJN6-ZOvCbLO0dr-BOrnR38M2L_75-mcpFR14g)  
+[Что делать с разрегистрированными раздачами.]({{< relref "unregistered-topics" >}})
 
 ##### Статистика и отчеты:
 [Сводные отчеты работы в группе.](https://rutracker.org/forum/viewtopic.php?t=4275633)  
