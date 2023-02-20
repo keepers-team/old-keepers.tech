@@ -1,6 +1,6 @@
 ---
 title: "Разрегистрированные раздачи"
-weight: 3
+weight: 2
 ---
 
 ## На примере qBittorrent
