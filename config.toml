@@ -9,16 +9,9 @@ home = [ "HTML", "RSS", "JSON" ]
 
 [params]
 themeVariant = ["keepers-dark", "keepers-light"]
-additionalContentLanguage = [ "en" ]
 
 [languages.ru]
 title = "Документация Хранителей"
 weight = 1
 languageName = "Русский"
 landingPageName = "<i class='fas fa-home'></i> Главная"
-
-[languages.en]
-title = "Keepers' docs"
-weight = 2
-languageName = "English"
-landingPageName = "<i class='fas fa-home'></i> Home"
